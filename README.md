@@ -17,8 +17,10 @@ This app using written in Kotlin with Android Studio.
 
 ***
 
-Pressing the "Назад" button will return you to the start screen.
-And by entering text in the search bar and clicking the "Поиск" button, you can run a query and sort the received data
+
+In the main menu, only the title is visible, and if you click on it, a fragment will open with details and the ability to delete the note
 
 
-![](https://github.com/MikhailBezlepkin/Screenshots/blob/main/RaMChar2.png)
+![](https://github.com/MikhailBezlepkin/Screenshots/blob/main/NAF.png)
+
+![](https://github.com/MikhailBezlepkin/Screenshots/blob/main/NAD.png)
